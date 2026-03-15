@@ -19,7 +19,7 @@ An autonomous AI assistant that runs persistently on your machine. Monitors emai
 
 Built on the Claude Agent SDK with MCP integrations for Google Workspace, browser automation, smart home control, and more.
 
-**[→ sentinel-website](https://sentinel-website-277192721112.us-central1.run.app)**
+**[→ sentinel.guinacio.cv](https://sentinel.guinacio.cv)**
 
 ---
 
