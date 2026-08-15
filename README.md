@@ -2,7 +2,7 @@
 
 AI engineer building production infrastructure for LLM agents and the Claude ecosystem.
 
-Working at [Abstrato](https://abstrato.ventures) as an AI Engineer — enterprise AI consulting and agentic architectures. Prior: AI platforms at [Franq](https://franq.com.br), EEG signal classification research at CTU Prague (2019), exchange program at TU Munich.
+Working at [Abstrato](https://abstrato.ventures) as an AI Engineer, enterprise AI consulting and agentic architectures. Prior: AI platforms at [Franq](https://franq.com.br), EEG signal classification research at CTU Prague (2019), exchange program at TU Munich.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
